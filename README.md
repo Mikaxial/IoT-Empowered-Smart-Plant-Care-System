@@ -61,3 +61,8 @@ We worked together on the design, development, and testing of the IoT-based Smar
 
 ![WhatsApp Image 2024-09-03 at 12 58 45 PM](https://github.com/user-attachments/assets/c6dc9953-8b43-4052-9c33-88a69234d31b)
 
+## License
+
+This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
+
+Copyright © 2025 Fatimah Munir and Abeeha Imran
