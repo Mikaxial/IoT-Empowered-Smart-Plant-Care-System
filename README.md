@@ -3,9 +3,10 @@
 ## Overview
 This project is an IoT-based solution for automated plant care. It monitors soil moisture, temperature, and humidity, and activates a water pump when the soil is dry. The system uses an LCD to display live data and can be controlled via Bluetooth.
 
-![IoT Plant System](images/2.jpeg)
-<img src="images/3.jpeg" alt="IoT Plant System" width="600">
-
+<div align="center">
+  <img src="images/2.jpeg" alt="IoT Plant System" width="500">
+  <img src="images/3.jpeg" alt="IoT Plant System" width="500">
+</div>
 
 ## Features
 - Monitors soil moisture using an analog sensor.
