@@ -35,6 +35,18 @@ This project is an IoT-based solution for automated plant care. It monitors soil
 | `hplmin`  | Min soil moisture threshold      | `350`   |
 | `hplmax`  | Max soil moisture threshold      | `716`   |
 
+### App Files
+
+- **Smart_Plant_Care_System.apk**: The compiled Android application ready for installation on devices.
+- **Smart_Plant_Care_System.aia**: The source file for the app, created using MIT App Inventor. This file can be imported into [MIT App Inventor](https://appinventor.mit.edu/) for modifications or customizations.
+
+#### How to Use the `.aia` File
+1. Go to [MIT App Inventor](https://appinventor.mit.edu/).
+2. Log in and click **Projects → Import project (.aia) from my computer**.
+3. Select the `Smart_Plant_Care_System.aia` file and import it.
+4. Modify the app as needed and compile a new `.apk` if necessary.
+
+
 ![WhatsApp Image 2024-09-03 at 12 41 01 PM](https://github.com/user-attachments/assets/2f018401-8dc4-4b48-9ef2-bbcb666c822a)
 
 ![WhatsApp Image 2024-09-03 at 12 41 02 PM](https://github.com/user-attachments/assets/d931040b-a58c-4971-9499-10ebab13b187)
