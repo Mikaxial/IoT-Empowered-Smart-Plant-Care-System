@@ -35,3 +35,9 @@ This project is an IoT-based solution for automated plant care. It monitors soil
 | `hplmin`  | Min soil moisture threshold      | `350`   |
 | `hplmax`  | Max soil moisture threshold      | `716`   |
 
+![WhatsApp Image 2024-09-03 at 12 41 01 PM](https://github.com/user-attachments/assets/2f018401-8dc4-4b48-9ef2-bbcb666c822a)
+
+![WhatsApp Image 2024-09-03 at 12 41 02 PM](https://github.com/user-attachments/assets/d931040b-a58c-4971-9499-10ebab13b187)
+
+![WhatsApp Image 2024-09-03 at 12 58 45 PM](https://github.com/user-attachments/assets/c6dc9953-8b43-4052-9c33-88a69234d31b)
+
