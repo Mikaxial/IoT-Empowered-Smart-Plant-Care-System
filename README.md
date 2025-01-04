@@ -46,6 +46,14 @@ This project is an IoT-based solution for automated plant care. It monitors soil
 3. Select the `Smart_Plant_Care_System.aia` file and import it.
 4. Modify the app as needed and compile a new `.apk` if necessary.
 
+## Contributors
+
+This project was developed as a collaborative effort between:
+- [Fatimah Munir](https://github.com/Mikaxial)  
+- [Abeeha Imran](https://github.com/TechGorlBeea)
+
+We worked together on the design, development, and testing of the IoT-based Smart Plant Care System.
+
 
 ![WhatsApp Image 2024-09-03 at 12 41 01 PM](https://github.com/user-attachments/assets/2f018401-8dc4-4b48-9ef2-bbcb666c822a)
 
