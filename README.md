@@ -6,6 +6,7 @@ This project is an IoT-based solution for automated plant care. It monitors soil
 <div align="center">
   <img src="images/2.jpeg" alt="IoT Plant System" width="500">
   <img src="images/3.jpeg" alt="IoT Plant System" width="500">
+  <img src="images/5.jpeg" alt="IoT Plant System" width="500">
 </div>
 
 ## Features
